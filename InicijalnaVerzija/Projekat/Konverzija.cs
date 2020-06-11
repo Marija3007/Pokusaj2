@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace Projekat
 {
-    class Program
+    class Konverzija
     {
-        static void Main(string[] args)
+       private string name;
+
+        public Konverzija()
         {
-            Console.WriteLine("Hello");
-            Console.WriteLine("ooooo");
+
         }
+
+        public string Name { get => name; set => name = value; }
     }
 }

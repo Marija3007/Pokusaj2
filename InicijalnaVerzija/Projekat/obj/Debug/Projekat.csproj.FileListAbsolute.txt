@@ -1,0 +1,7 @@
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\bin\Debug\Projekat.exe
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\bin\Debug\Projekat.pdb
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\obj\Debug\Projekat.csprojAssemblyReference.cache
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\obj\Debug\Projekat.exe
+C:\Users\Marija-PC\Pokusaj2\InicijalnaVerzija\Projekat\obj\Debug\Projekat.pdb
